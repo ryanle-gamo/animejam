@@ -1,8 +1,8 @@
 {
-    "latest_version":"1.0.0",
+    "latest_version":"0.0.9",
     "is_admob_in_grid":true,
     "is_admob":true,
-    "version":"PRODUCTION",
+    "version":"ALPHA",
     "category_url":"https://raw.githubusercontent.com/ryanle-gamo/animejam/master/draw_anime_jam_category.json",
     "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/animejam/master/draw_anime_jam_alpha.json",
     "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animejam/master/",

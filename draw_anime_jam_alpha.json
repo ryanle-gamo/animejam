@@ -1,7 +1,7 @@
 {
     "categories": [{
                    "category_id": "2222",
-                   "category_name": "Anime Jam",
+                   "category_name": "Animal Jam",
                    "category_thumbnail": "2222.png",
                    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animejam/master/",
                    "file_extension": "png",
