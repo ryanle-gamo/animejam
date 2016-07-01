@@ -1,0 +1,111 @@
+{
+    "categories": [{
+                   "category_id": "2222",
+                   "category_name": "Anime Jam",
+                   "category_thumbnail": "2222.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animejam/master/",
+                   "file_extension": "png",
+                   "is_video": "false",
+                   "animes": [{
+                              "anime_id": "20",
+                              "anime_name": "Logo",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Arctic Wolf",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Bunny",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Cheetah",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "1",
+                              "anime_name": "Deer",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Dolphin",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Fox",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Giraffe",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Horse",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Kangaroo",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Koala",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Panda",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Penguin",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Raccoon",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "16",
+                              "anime_name": "Rhino",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "17",
+                              "anime_name": "Seal",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "19",
+                              "anime_name": "Shark",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Snake",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Snow Leopard",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Wolf",
+                              "anime_step":15
+                              }
+                              ]
+                   }]
+}

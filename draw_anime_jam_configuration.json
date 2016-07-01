@@ -1,12 +1,12 @@
 {
-    "latest_version":"1.0.1",
+    "latest_version":"1.0.0",
     "is_admob_in_grid":true,
     "is_admob":true,
     "version":"PRODUCTION",
-    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/famous_people/master/draw_famous_people_category.json",
-    "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/famous_people/master/draw_famous_people_category_alpha.json",
-    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/famous_people/master/",
-    "admob_banner_id":"ca-app-pub-4322965078780162/3713642336",
-    "admob_interstitial_id":"ca-app-pub-4322965078780162/5190375532",
+    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/animejam/master/draw_anime_jam_category.json",
+    "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/animejam/master/draw_anime_jam_alpha.json",
+    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animejam/master/",
+    "admob_banner_id":"ca-app-pub-4322965078780162/4187013532",
+    "admob_interstitial_id":"ca-app-pub-4322965078780162/5663746738",
     "itune_url":"http://itunes.apple.com/app/id1126278121"
 }
